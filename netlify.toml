@@ -1,0 +1,5 @@
+# drifur.com — static site, no build step
+[build]
+  publish = "."
+  functions = "netlify/functions"
+  command = ""
