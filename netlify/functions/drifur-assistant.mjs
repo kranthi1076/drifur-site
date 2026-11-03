@@ -8,7 +8,7 @@ const CONFIG = {
   maxTokens: 220,
   product: {
     name: "DRIFUR 3-in-1 Pet Hair Remover Kit for Cats and Dogs",
-    price: "$16.99 on Amazon",
+    price: "$19.99 on Amazon",
     rating: "Rated 4.6 out of 5 on Amazon",
     contents: [
       "Self-cleaning deshedding brush — for grooming loose undercoat off your pet",
